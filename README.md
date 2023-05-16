@@ -1,7 +1,7 @@
 ### Hi, I am Boris Deyanov!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-deyanov/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=blue)](https://www.instagram.com/boris_deyanov/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-rounded&logo=Instagram&logoColor=blue)](https://www.instagram.com/boris_deyanov/) 
 
 ### GitHub Stats
 
